@@ -1,0 +1,6 @@
+Archlinux
+Debian
+Fedora
+Mint
+OpenSUSE
+Ubuntu
